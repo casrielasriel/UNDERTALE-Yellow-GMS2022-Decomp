@@ -1,0 +1,11 @@
+{
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "GMLive_exec",
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "GMLive",
+    "path": "folders/Scripts/GMLive.yy",
+  },
+}

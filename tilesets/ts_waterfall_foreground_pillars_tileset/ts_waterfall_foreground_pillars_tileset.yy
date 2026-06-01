@@ -1,0 +1,45 @@
+{
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "ts_waterfall_foreground_pillars_tileset",
+  "spriteId": {
+    "name": "_decompiled_ts_waterfall_foreground_pillars_tileset",
+    "path": "sprites/_decompiled_ts_waterfall_foreground_pillars_tileset/_decompiled_ts_waterfall_foreground_pillars_tileset.yy",
+  },
+  "tileWidth": 212,
+  "tileHeight": 240,
+  "tilexoff": 0,
+  "tileyoff": 0,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "spriteNoExport": true,
+  "textureGroupId": {
+    "name": "Waterfall",
+    "path": "texturegroups/Waterfall",
+  },
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "out_columns": 2,
+  "tile_count": 4,
+  "autoTileSets": [],
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.00015,
+  "tileAnimation": {
+    "FrameData": [
+      0,
+      1,
+      2,
+      3,
+    ],
+    "SerialiseFrameCount": 1,
+  },
+  "macroPageTiles": {
+    "SerialiseWidth": 0,
+    "SerialiseHeight": 0,
+    "TileSerialiseData": [],
+  },
+  "parent": {
+    "name": "Waterfall",
+    "path": "folders/Tile Sets/Waterfall.yy",
+  },
+}
