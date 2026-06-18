@@ -1,6 +1,6 @@
 # UNDERTALE Yellow GMS2022 Decomp
 
-UNDERTALE Yellow backported to 2022.0
+UNDERTALE Yellow backported to 2022.9
 
 Not sure who wanted this but here ya go lmao
 
